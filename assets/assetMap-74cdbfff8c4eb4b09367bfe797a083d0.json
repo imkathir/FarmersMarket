@@ -1,0 +1,24 @@
+{
+  "assets": {
+    "assets/assetMap.json": "assets/assetMap-9887df7b0a9fa5f5478e7ad306f218fc.json",
+    "assets/farmers-market.css": "assets/farmers-market-04d3bf88bd529c93ee03590d4e5b31fb.css",
+    "assets/farmers-market.js": "assets/farmers-market-d41a292924c1eee651ba16ea884e7118.js",
+    "assets/images/animal.jpg": "assets/images/animal-48273aee45de2cbbf0927c2f21fed843.jpg",
+    "assets/images/bird1.jpg": "assets/images/bird1-915ce3d018bd9216ee2ca2b09410f31a.jpg",
+    "assets/images/bird2.jpg": "assets/images/bird2-c92cc9f6244f80a65ece1ca623c66c0c.jpg",
+    "assets/images/bird3.jpg": "assets/images/bird3-0489a16b9533f9a903d8d2ea929622a7.jpg",
+    "assets/images/bird4.jpg": "assets/images/bird4-6e0aabc9c2cea15f1f83f9c15eb831e0.jpg",
+    "assets/images/cow1.jpg": "assets/images/cow1-89b26b3e265e22997b0e8bbcd119c430.jpg",
+    "assets/images/cow2.jpg": "assets/images/cow2-94b82bc6104ba8af99f7b83c6cdf0175.jpg",
+    "assets/images/cow3.jpg": "assets/images/cow3-fc634e44fbf67cd0bf2261f0afd277f3.jpg",
+    "assets/images/cow4.jpg": "assets/images/cow4-ac3c85fac9926c6fca9652dca83114b4.jpg",
+    "assets/images/goat1.jpg": "assets/images/goat1-37b3c1ab7ec2f7f9b29475edd279b43e.jpg",
+    "assets/images/goat2.jpg": "assets/images/goat2-8b21f775bf5dd1b1afac9ac4bf2a519b.jpg",
+    "assets/images/vegetable1.jpg": "assets/images/vegetable1-32747d6055e90de2ae665af6bc5c210c.jpg",
+    "assets/images/vegetable2.jpg": "assets/images/vegetable2-16006066dd1050908e194b2ace77d501.jpg",
+    "assets/vendor.css": "assets/vendor-3cb34619619f3d97b32064aedb0b428b.css",
+    "assets/vendor.js": "assets/vendor-fc971ac8a0fd57d6993fb14fbe579a5a.js",
+    "favicon.png": "favicon-9bd489f7199fbe53556ec0303ce34b0a.png"
+  },
+  "prepend": ""
+}
