@@ -165,3 +165,16 @@ p {
 strong {
   font-weight: 800;
 }
+
+@media screen and (max-width: 1023px) {
+  body {
+    min-width: 1024px;
+    overflow-x: hidden;
+  }
+}
+@media screen and (max-width: 240px) {
+  body {
+    min-width: 1024px;
+    overflow-x: auto;
+  }
+}
