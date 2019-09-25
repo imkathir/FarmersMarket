@@ -178,3 +178,15 @@ strong {
     overflow-x: auto;
   }
 }
+form {
+  padding: 50px;
+}
+.text-orange {
+  color: rgb(192, 129, 13);
+}
+.text-blue {
+  color: #07425e;
+}
+.text-green {
+  color: rgb(4, 83, 40);
+}
