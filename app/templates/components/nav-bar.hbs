@@ -16,6 +16,10 @@
       <li>CATEGORY</li>
     </LinkTo>
 
+    <LinkTo @params={{array "wordlength"}} @current-when="wordlength">
+      <li>Word's length</li>
+    </LinkTo>
+
     {{#accordion-list as |accordion|}}
       {{#accordion.item as |accordionItem|}}
         {{!-- Create a 'toggle' and a 'panel' for the item --}}

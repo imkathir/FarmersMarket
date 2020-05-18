@@ -21,6 +21,7 @@ Router.map(function() {
   this.route('goats');
   this.route('dupfinder');
 
+  this.route('wordlength');
 });
 
 export default Router;

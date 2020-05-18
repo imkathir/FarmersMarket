@@ -44,7 +44,8 @@ module.exports = function(defaults) {
       'category',
       'vegetables',
       'birds',
-      'dupfinder'
+      'dupfinder',
+      'wordlength'
     ],
     packageRules: [
       {

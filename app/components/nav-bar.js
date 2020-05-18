@@ -7,7 +7,7 @@ model: computed( function() {
     { name:'Vegetables', route: 'vegetables' },
     { name:'Birds', route: 'birds' },
     { name:'Cow', route: 'animals' },
-    { name:'Goat', route: 'goats' }
+    { name:'Goat', route: 'goats' },
   ];
 })
 });
